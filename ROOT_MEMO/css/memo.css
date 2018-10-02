@@ -1,0 +1,28 @@
+.memo_form{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.list-group-item:hover{
+    z-index: 0;
+}
+
+.menu_bar{
+    position: absolute;
+    right: 1%; 
+    display: none;
+    border: none;
+    background-color: #fff;
+}
+
+.list-group-item:hover>.menu_bar{
+    display: inline-block;
+}
+
+.menu_bar>img{
+    width: 16px;
+    z-index: 1;
+}
+form{
+    text-decoration: none;
+}

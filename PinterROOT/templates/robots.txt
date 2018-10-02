@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /templates/
+Disallow: /db.py
+Disallow: /image_control.py
+Disallow: /webtool.py
+Disallow: /webtool.wsgi
